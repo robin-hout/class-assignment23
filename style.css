@@ -1,0 +1,48 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+.main-div{
+    width: 800px;
+    border: 1px solid #ddd;
+    margin: 30px auto;
+    padding: 20px;
+}
+
+.principal{
+    width: 800px;
+    margin: auto;
+    padding: 20px;
+}
+.form{
+    position: relative;
+}
+
+.form span{
+    position: absolute;
+    top: 32px;
+    left: 379px;
+}
+
+.btn{
+
+    background: #1a73e8;
+}
+
+.btn a{
+    
+    text-transform: capitalize;
+    text-decoration: none;
+    color: #fff;
+    padding: 5px 10px;
+}
+
+.foter-right{
+
+}
+
+.foter-right a{
+    text-decoration: none;
+    text-transform: capitalize;
+}
